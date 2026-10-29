@@ -1,0 +1,26 @@
+{
+  "texts": {
+    "13": "NSTA INTERAKTÍV: Óceáni áramlások",
+    "22": "Véletlen",
+    "24": "Véletlen",
+    "27": "Indiai-óceán",
+    "28": "Indiai-óceán",
+    "30": "Déli Csendes-óceán",
+    "31": "Déli Csendes-óceán",
+    "33": "Északi Csendes-óceán",
+    "34": "Északi Csendes-óceán",
+    "36": "Déli Atlanti-óceán",
+    "37": "Déli Atlanti-óceán",
+    "39": "Északi Atlanti-óceán",
+    "40": "Északi Atlanti-óceán",
+    "42": "VEZÉRLŐPULT",
+    "50": "A Föld – Robinson-vetület",
+    "74": "A vezérlőpult gombjaival válassz térséget! A vízrészecske a kiválasztott regionális áramlást követi. Két kiválasztott térség között a globális termohalin cirkuláció útvonalán halad.",
+    "75": "ÚTMUTATÓ",
+    "78": "ÚTMUTATÓ",
+    "97": "Mielőtt elkezded",
+    "99": "A modell egy vízrészecske útját szemlélteti a globális, hőmérséklet- és sótartalom-különbségekhez kapcsolódó termohalin cirkulációban. A fő útvonalról a részecske regionális áramlásokra térhet ki, majd visszatérhet. Figyeld meg, hogyan változik a vízrészecske hőmérséklete az út során! A kezelés részleteit az Útmutató fülön találod.",
+    "100": "TOVÁBB"
+  },
+  "strings": {}
+}
